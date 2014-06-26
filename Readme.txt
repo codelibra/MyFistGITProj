@@ -10,8 +10,9 @@ cp file1 file2  copies the file1 from it's path to current directory with name f
 cp file1 . 		this copies file1 in current working directory with same name
 mv file1 file2	this moves file1 from i's location to file2 the new location. it is not coping...only 1 copy is left
 rm file1 		removes the file1
-rmdir  diretory	removes the directory
+
 clear			clears the screen
+rmdir  diretory	removes the directory given path
 cat file1 		displays the contents of the file on the screen
 less file1		same function as that as of cat...but prints once page at a time
 grep keyword file1 		searches for the keyword or phrase in the file
